@@ -1,0 +1,11 @@
+0 deg (300g) = +236
+15 deg (100g) = +231
+25 deg = +90, +90, +80 = avg 86 - more consistent 
+30 deg = +83, +76, +40 = avg 66
+
+100g = 1% - 15 deg
+200g = 10% - 15 deg
+300G = 20% - 10 deg
+400G = 27.5% - 5 deg
+
+https://percentagecalculator.net/
